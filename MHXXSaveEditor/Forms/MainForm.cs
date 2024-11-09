@@ -9,6 +9,7 @@ using MHXXSaveEditor.Forms;
 using MHXXSaveEditor.Util;
 using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Drawing;
 using System.IO;
 using System.Linq;
@@ -209,7 +210,7 @@ namespace MHXXSaveEditor
 
         private void AboutToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Made by Dawnshifter based on work of Ukee for GBATemp\nBased off APM's MHX/MHGen Save Editor\nAlso thanks to Seth VanHeulen for the Save File structure\nAnd some MHX/MHGen/MHXX hex editing threads in GBATemp", "About");
+            MessageBox.Show("Made by Dawnshifter based on work of Ukee for GBATemp\nBased off APM's MHX/MHGen Save Editor\nAlso thanks to Seth VanHeulen for the Save File structure\nAnd some MHX/MHGen/MHXX hex editing threads in GBATemp  || Fixed error export 3ds to Nintendo Swicht Miventech", "About");
         }
 
         public void LoadSave()
@@ -1484,11 +1485,14 @@ namespace MHXXSaveEditor
             SplashScreen.ShowSplashScreen();
             filePath = ofd.FileName;
             Text = string.Format("{0} [{1}]", Constants.EDITOR_VERSION, ofd.SafeFileName); // Changes app title
+            Console.WriteLine( "Reading File: " + ofd.FileName);
             byte[] _saveFileRaw = File.ReadAllBytes(ofd.FileName); // Read all bytes from file into memory buffer
+            Console.WriteLine($"SAVE MHXX {_saveFileRaw.Length} != {SWITCH_SAVE_SIZE}");
+            Console.WriteLine($"SAVE MHGU {_saveFileRaw.Length} != {MHGU_SAVE_SIZE}");
 
             ofd.Dispose();
 
-            if (_saveFileRaw.Length != SWITCH_SAVE_SIZE)
+            if (_saveFileRaw.Length != SWITCH_SAVE_SIZE && _saveFileRaw.Length != MHGU_SAVE_SIZE)
             {
                 MessageBox.Show($"Not a valid switch save", "Error");
                 return;
@@ -1576,7 +1580,12 @@ namespace MHXXSaveEditor
 
         private void button1_Click_1(object sender, EventArgs e)
         {
-            player.
+            //player.
+        }
+
+        private void MainForm_Load(object sender, EventArgs e)
+        {
+
         }
 
         private void ListViewPalicoEquipment_SelectedIndexChanged(object sender, EventArgs e)

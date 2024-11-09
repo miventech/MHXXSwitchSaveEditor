@@ -1,0 +1,17 @@
+C:\Users\ALIENWARE\Documents\Visual Studio Proyects\MHXXSwitchSaveEditor-master\MHXXSwitchSaveEditor-master\MHXXSaveEditor\obj\Debug\MHXXSaveEditor.csproj.AssemblyReference.cache
+C:\Users\ALIENWARE\Documents\Visual Studio Proyects\MHXXSwitchSaveEditor-master\MHXXSwitchSaveEditor-master\MHXXSaveEditor\obj\Debug\MHXXSaveEditor.Forms.EditGuildCardDialog.resources
+C:\Users\ALIENWARE\Documents\Visual Studio Proyects\MHXXSwitchSaveEditor-master\MHXXSwitchSaveEditor-master\MHXXSaveEditor\obj\Debug\MHXXSaveEditor.Forms.EditKinsectDialog.resources
+C:\Users\ALIENWARE\Documents\Visual Studio Proyects\MHXXSwitchSaveEditor-master\MHXXSwitchSaveEditor-master\MHXXSaveEditor\obj\Debug\MHXXSaveEditor.Forms.EditPalicoDialog.resources
+C:\Users\ALIENWARE\Documents\Visual Studio Proyects\MHXXSwitchSaveEditor-master\MHXXSwitchSaveEditor-master\MHXXSaveEditor\obj\Debug\MHXXSaveEditor.Forms.EditShoutoutsDialog.resources
+C:\Users\ALIENWARE\Documents\Visual Studio Proyects\MHXXSwitchSaveEditor-master\MHXXSwitchSaveEditor-master\MHXXSaveEditor\obj\Debug\MHXXSaveEditor.Forms.EditTalismanDialog.resources
+C:\Users\ALIENWARE\Documents\Visual Studio Proyects\MHXXSwitchSaveEditor-master\MHXXSwitchSaveEditor-master\MHXXSaveEditor\obj\Debug\MHXXSaveEditor.Forms.SetItemAmountDialog.resources
+C:\Users\ALIENWARE\Documents\Visual Studio Proyects\MHXXSwitchSaveEditor-master\MHXXSwitchSaveEditor-master\MHXXSaveEditor\obj\Debug\MHXXSaveEditor.Forms.SplashScreen.resources
+C:\Users\ALIENWARE\Documents\Visual Studio Proyects\MHXXSwitchSaveEditor-master\MHXXSwitchSaveEditor-master\MHXXSaveEditor\obj\Debug\MHXXSaveEditor.Forms.Transmogrify.resources
+C:\Users\ALIENWARE\Documents\Visual Studio Proyects\MHXXSwitchSaveEditor-master\MHXXSwitchSaveEditor-master\MHXXSaveEditor\obj\Debug\MHXXSaveEditor.Properties.Resources.resources
+C:\Users\ALIENWARE\Documents\Visual Studio Proyects\MHXXSwitchSaveEditor-master\MHXXSwitchSaveEditor-master\MHXXSaveEditor\obj\Debug\MHXXSaveEditor.csproj.GenerateResource.cache
+C:\Users\ALIENWARE\Documents\Visual Studio Proyects\MHXXSwitchSaveEditor-master\MHXXSwitchSaveEditor-master\MHXXSaveEditor\obj\Debug\MHXXSaveEditor.csproj.CoreCompileInputs.cache
+C:\Users\ALIENWARE\Documents\Visual Studio Proyects\MHXXSwitchSaveEditor-master\MHXXSwitchSaveEditor-master\MHXXSaveEditor\obj\Debug\MHXXSaveEditor.exe
+C:\Users\ALIENWARE\Documents\Visual Studio Proyects\MHXXSwitchSaveEditor-master\MHXXSwitchSaveEditor-master\MHXXSaveEditor\obj\Debug\MHXXSaveEditor.pdb
+C:\Users\ALIENWARE\Documents\Visual Studio Proyects\MHXXSwitchSaveEditor-master\MHXXSwitchSaveEditor-master\MHXXSaveEditor\bin\Debug\MHXXSaveEditor.exe.config
+C:\Users\ALIENWARE\Documents\Visual Studio Proyects\MHXXSwitchSaveEditor-master\MHXXSwitchSaveEditor-master\MHXXSaveEditor\bin\Debug\MHXXSaveEditor.exe
+C:\Users\ALIENWARE\Documents\Visual Studio Proyects\MHXXSwitchSaveEditor-master\MHXXSwitchSaveEditor-master\MHXXSaveEditor\bin\Debug\MHXXSaveEditor.pdb
