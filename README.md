@@ -1,3 +1,5 @@
+Esta version es una fork de otro proyecto el cual poseia un error para exportar de NintendoSW a Nintendo 3DS
+
 # MHXXSwitchSaveEditor
 A save editor for Monster Hunter XX Switch and 3DS versions
 FIRST VERSION
